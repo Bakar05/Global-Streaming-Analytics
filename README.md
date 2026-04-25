@@ -14,5 +14,5 @@ This project was designed as a dedicated study in **Exploratory Data Analysis (E
 * **Content Maturity:** Analysis shows a heavy concentration in '13+' and '16+' ratings, indicating a target demographic shift toward young adults.
 
 ## Tools Used
-* **Visualization:** Power BI / Tableau
+* **Visualization:** Power BI
 * **Design:** High-contrast dark UI for professional readability.
